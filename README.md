@@ -5,7 +5,7 @@ voila network_animation.ipynb
 ```
 
 ### Demo
-![demo](demo.mp4 Demo)
+![](imgs/demo.gif)
 
 ### TODO
 * slider for # nodes in graph 
